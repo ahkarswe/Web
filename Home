@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Ahkar’s AWS Knowledge Hub</title>
+  <link rel="stylesheet" href="assets/styles.css">
+</head>
+<body>
+  <header>
+    <h1>🚀 AWS Tips for Myanmar Developers</h1>
+    <p>တစ်ဦးတည်းသော AWS လေ့လာသူကနေ Community Builder ဖြစ်လာရန် ခရီးစဉ်။</p>
+    <nav>
+      <a href="about.html">About Me</a> |
+      <a href="posts/first-post.html">Blog</a>
+    </nav>
+  </header>
+  <main>
+    <section>
+      <h2>Featured Post</h2>
+      <p><strong>“Understanding IAM: Identity & Access Management”</strong></p>
+      <a href="posts/first-post.html">Read More →</a>
+    </section>
+  </main>
+</body>
+</html>
